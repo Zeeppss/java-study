@@ -1,4 +1,4 @@
 # java-study
 Berikut beberapa penggunaan kode java.
 
-Language: `Indonesia`
+Language: `Indonesia` x `English`
