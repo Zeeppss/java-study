@@ -3,7 +3,7 @@ package dev.zeeppss.javastudy.methods;
 /*
 Rekursi adalah teknik membuat pemanggilan fungsi itu sendiri. Teknik ini memberikan cara untuk memecah masalah yang rumit menjadi masalah sederhana yang lebih mudah dipecahkan.
 
-Rekursi mungkin agak sulit dipahami. Cara terbaik untuk mengetahui cara kerjanya adalah dengan bereksperimen dengannya, contoh:
+Rekursi ini mungkin agak sulit dipahami. Cara terbaik untuk mengetahui cara kerjanya adalah dengan bereksperimen dengannya, contoh:
 */
 
 public class Recursion {
